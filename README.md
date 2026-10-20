@@ -45,7 +45,7 @@ businesses, such as law firms and medical offices.
 - [ ] Conversational layer (LLM)
 - [ ] Deployment
 
-## Tech Stack
+## Planned Stack
 
 | Layer            | Tool                            |
 | ---------------- | ------------------------------- |
@@ -55,7 +55,7 @@ businesses, such as law firms and medical offices.
 | Automation       | n8n (notifications)             |
 | CI/CD            | GitHub Actions                  |
 
-All components are open source.
+All planned components are open source.
 
 ## Documentation
 
@@ -75,3 +75,8 @@ work is organized with GitHub Issues and Projects.
 ## License
 
 [MIT](LICENSE)
+
+## Author
+
+Diego Cruz Pereira, ADS student at Fatec Franca, Brazil.
+[LinkedIn](https://www.linkedin.com/in/diegocp89) · [GitHub](https://github.com/DiegoCP89)
