@@ -46,3 +46,11 @@ dentist's working days and hours.
 - How is the dentist notified and how does the dentist approve
   a payment proof?
 - Which WhatsApp connection will be used (see ADR-002)?
+
+## Important considerations
+
+- The product may have real commercial use, not only portfolio use.
+- It is designed to comply with LGPD (Brazil's General Data
+  Protection Law).
+- Patient data is sensitive: privacy and security are requirements
+  from the start.
