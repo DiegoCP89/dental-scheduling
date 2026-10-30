@@ -21,6 +21,10 @@ Repository name: dental-scheduling.
 
 ## Consequences
 
+### Positive
+
 - Focused requirements and a faster MVP.
 
-* Some terms (e.g., "dentist") may need renaming if generalized.
+### Negative
+
+- Some terms (e.g., "dentist") may need renaming if generalized.
