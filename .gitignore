@@ -221,3 +221,9 @@ __marimo__/
 
 # windows
 desktop.ini
+
+# Claude
+CLAUDE.md
+
+# Private session handoff
+docs/STATUS.md
