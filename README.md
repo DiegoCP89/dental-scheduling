@@ -20,10 +20,10 @@ Patients talk to an assistant on WhatsApp, available around the clock:
 - Book, reschedule, or cancel an appointment
 - Confirm an existing appointment
 - Request an urgent appointment (requires upfront payment proof)
-- Self-register through a short web form on first contact
+- Start with just a name in the chat and complete the registration later through a secure link
 
-The assistant respects each dentist's working days and hours, so
-conflicting bookings cannot happen.
+The assistant respects each dentist's working days and hours and is
+designed to prevent conflicting bookings.
 
 ## Future Scope
 
@@ -35,7 +35,8 @@ businesses, such as law firms and medical offices.
 **Current phase:** Requirements and analysis (no code yet)
 
 - [x] Project scope and repository setup
-- [ ] Vision document and use cases
+- [x] Vision document
+- [ ] Use cases (UC-01 done)
 - [ ] Business rules
 - [ ] Data model (ER diagram)
 - [ ] Patient registration API
@@ -52,10 +53,9 @@ businesses, such as law firms and medical offices.
 | API              | FastAPI (Python)                |
 | Database         | PostgreSQL, SQLAlchemy, Alembic |
 | WhatsApp gateway | Evolution API                   |
-| Automation       | n8n (notifications)             |
+| Conversation     | LLM with function calling       |
+| Notifications    | Email (dentist alerts)          |
 | CI/CD            | GitHub Actions                  |
-
-All planned components are open source.
 
 ## Documentation
 
@@ -71,6 +71,8 @@ Coming soon.
 This is a learning project built in public. Commits follow
 [Conventional Commits](https://www.conventionalcommits.org/);
 work is organized with GitHub Issues and Projects.
+
+Code contributions are not being accepted yet, while the project license is being decided.
 
 ## License
 
