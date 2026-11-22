@@ -72,11 +72,12 @@ This is a learning project built in public. Commits follow
 [Conventional Commits](https://www.conventionalcommits.org/);
 work is organized with GitHub Issues and Projects.
 
-Code contributions are not being accepted yet, while the project license is being decided.
+This repository contains documentation only, so code contributions do not apply.
 
 ## License
 
-[MIT](LICENSE)
+The documentation in this repository is licensed under the [MIT License](LICENSE).
+The application code will live in a separate private repository.
 
 ## Author
 
